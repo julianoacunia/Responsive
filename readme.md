@@ -1,3 +1,3 @@
 # TASK NEW FOR BECOME A SOFTWARE DEV
 
-[PLAY](https://julianoacunia.github.io/TaskNews/)
+[PLAY](https://julianoacunia.github.io/Responsive/)
